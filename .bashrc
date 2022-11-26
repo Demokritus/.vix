@@ -307,4 +307,4 @@ function alias_completion {
 }; alias_completion
 
 # Loading system dependent scripts
-source .bash_extra
+source ~/.bash_extra

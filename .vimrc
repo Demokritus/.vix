@@ -154,3 +154,6 @@ call plug#end()
 
 " To write on files that has been opened without root access
 command W :execute ':silent w !sudo tee % > /dev/null' | :if v:shell_error | :edit! | :endif
+
+"" System dependent configs
+source ~/.vim_extra.vim
