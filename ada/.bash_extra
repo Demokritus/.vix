@@ -1,0 +1,4 @@
+export PATH="~/.local/bin/:$PATH"
+alias dact='deactivate && cd ~'
+alias pgbm='source ~/.penvs/venv-gbm/bin/activate && cd ~/gbm/gbm-segmentation'
+alias pudb='python -m pudb'

@@ -1,0 +1,2 @@
+WRN 2022-11-24T15:06:40.244 ?.2109889  server_start:166: Failed to start server: no such file or directory: /run/user/396154/
+WRN 2022-11-24T15:11:08.846 ?.2111389  server_start:166: Failed to start server: no such file or directory: /run/user/396154/
