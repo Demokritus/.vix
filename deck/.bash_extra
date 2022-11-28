@@ -1,0 +1,4 @@
+export PATH='~/.local/bin/':$PATH
+export PATH=$PATH:'/run/media/mmcblk0p1/.local/fiji/'
+export PATH=$PATH:'/run/media/mmcblk0p1/.local/distrobox/bin/'
+export PATH=$PATH:'/run/media/mmcblk0p1/.local/podman/bin/'
