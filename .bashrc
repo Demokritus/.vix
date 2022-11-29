@@ -186,8 +186,8 @@ alias ....='cd ../../..'
 
 # Adding ssh aliases
 ###########################
-alias ada='ssh afatehi@ada.uk-koeln.de'
-alias cheops='ssh afatehi@cheops1.rrz.uni-koeln.de'
+alias ada='ssh -Y afatehi@134.95.227.241'
+alias cheops='ssh -Y afatehi@cheops1.rrz.uni-koeln.de'
 ###########################
 
 
